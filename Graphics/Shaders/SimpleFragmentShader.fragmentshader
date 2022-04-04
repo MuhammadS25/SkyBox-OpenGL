@@ -1,0 +1,21 @@
+#version 330 core
+
+in vec3 fragColor;
+in vec2 Tex;
+
+out vec3 color;
+uniform sampler2D myTextureSampler;
+
+//uniform int case;
+
+void main()
+{
+
+	//if(case ==0)
+	//{
+		//color = fragColor;
+	//}
+	//else{
+		color = texture(myTextureSampler,Tex).rgb;
+	//}
+}

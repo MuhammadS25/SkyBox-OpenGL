@@ -1,0 +1,177 @@
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.exe.config
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.exe
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.pdb
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.exe
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab4\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab5\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab6\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab7\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab7 texture\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\labs\lab5 TextureMapping\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.pdb
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.exe.config
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.exe
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.pdb
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.exe
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.pdb
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.dll
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\mscorlib.dll
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\System.Net.Http.dll
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.pdb
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.xml
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\System.Net.Http.xml
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\normidna.nlp
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\normnfc.nlp
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\normnfd.nlp
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\normnfkc.nlp
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\bin\Debug\normnfkd.nlp
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\Teaching\CG c#\lab5 TextureMapping\Code\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.exe
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.pdb
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.exe.config
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.exe
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\bin\Debug\Graphics.pdb
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.dll
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.pdb
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\bin\Debug\GlmNet.xml
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - STUD\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\bin\Debug\Graphics.exe.config
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\bin\Debug\Graphics.exe
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\bin\Debug\Graphics.pdb
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\bin\Debug\GlmNet.dll
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\bin\Debug\GlmNet.pdb
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\bin\Debug\GlmNet.xml
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\obj\Debug\Graphics.exe
+D:\Teaching\CG\Lab6\Graphics Lab5 texture - complete code\Graphics\obj\Debug\Graphics.pdb
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\bin\Debug\Graphics.exe.config
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\bin\Debug\Graphics.exe
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\bin\Debug\Graphics.pdb
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\bin\Debug\GlmNet.dll
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\bin\Debug\GlmNet.pdb
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\bin\Debug\GlmNet.xml
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.csproj.SuggestedBindingRedirects.cache
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.exe
+E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.pdb
