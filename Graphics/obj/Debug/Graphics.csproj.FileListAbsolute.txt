@@ -175,3 +175,18 @@ E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture 
 E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.csproj.CopyComplete
 E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.exe
 E:\3rd year 2nd term matrials\Computer Graphics\labs\Graphics Lab4\Lab4 texture - complete code\Graphics\obj\Debug\Graphics.pdb
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\bin\Debug\Graphics.exe
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\bin\Debug\Graphics.pdb
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\bin\Debug\GlmNet.dll
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\bin\Debug\GlmNet.xml
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.csproj.AssemblyReference.cache
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.csproj.SuggestedBindingRedirects.cache
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.exe
+C:\Users\MoSabry25\Documents\GitHub\SkyBox-OpenGL\Graphics\obj\Debug\Graphics.pdb
