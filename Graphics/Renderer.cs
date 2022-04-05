@@ -13,13 +13,8 @@ namespace Graphics
     class Renderer
     {
         Shader sh;
-        uint vertexBufferID;
-        uint vertexBufferID2;
-        uint vertexBufferID3;
-        uint vertexBufferID4;
-        uint vertexBufferID5;
-        uint vertexBufferID6;
-        uint vertexBufferID7;
+        uint vertexBufferID, vertexBufferID2, vertexBufferID3,
+            vertexBufferID4, vertexBufferID5, vertexBufferID6, vertexBufferID7;
         int transID;
         int viewID;
         int projID;
@@ -31,13 +26,7 @@ namespace Graphics
 
         public Camera cam;
 
-        Texture tex1;
-        Texture tex2;
-        Texture tex3;
-        Texture tex4;
-        Texture tex5;
-        Texture tex6;
-        Texture tex7;
+        Texture tex1, tex2, tex3, tex4, tex5, tex6, tex7;
 
         public void Initialize()
         {
@@ -221,7 +210,7 @@ namespace Graphics
             Gl.glUniformMatrix4fv(transID, 1, Gl.GL_FALSE, scaleMat.to_array());
             Gl.glUniformMatrix4fv(projID, 1, Gl.GL_FALSE, ProjectionMatrix.to_array());
             Gl.glUniformMatrix4fv(viewID, 1, Gl.GL_FALSE, ViewMatrix.to_array());
-
+            //Ground-----------------------------------------------
             GPU.BindBuffer(vertexBufferID2);
             Gl.glEnableVertexAttribArray(0);
             Gl.glVertexAttribPointer(0, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), IntPtr.Zero);
@@ -229,76 +218,64 @@ namespace Graphics
             Gl.glVertexAttribPointer(1, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(3 * sizeof(float)));
             Gl.glEnableVertexAttribArray(2);
             Gl.glVertexAttribPointer(2, 2, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(6 * sizeof(float)));
-
+            
             tex2.Bind();
             Gl.glDrawArrays(Gl.GL_TRIANGLES, 0, 6);
-
+            //Back-----------------------------------------------
             GPU.BindBuffer(vertexBufferID);
-            Gl.glEnableVertexAttribArray(0);
+
             Gl.glVertexAttribPointer(0, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), IntPtr.Zero);
-            Gl.glEnableVertexAttribArray(1);
             Gl.glVertexAttribPointer(1, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(3 * sizeof(float)));
-            Gl.glEnableVertexAttribArray(2);
             Gl.glVertexAttribPointer(2, 2, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(6 * sizeof(float)));
 
             tex1.Bind();
             Gl.glDrawArrays(Gl.GL_POLYGON, 0, 4);
-
+            //top-----------------------------------------------
             GPU.BindBuffer(vertexBufferID3);
-            Gl.glEnableVertexAttribArray(0);
+
             Gl.glVertexAttribPointer(0, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), IntPtr.Zero);
-            Gl.glEnableVertexAttribArray(1);
             Gl.glVertexAttribPointer(1, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(3 * sizeof(float)));
-            Gl.glEnableVertexAttribArray(2);
             Gl.glVertexAttribPointer(2, 2, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(6 * sizeof(float)));
 
             tex3.Bind();
             Gl.glDrawArrays(Gl.GL_POLYGON, 0, 4);
-
+            //left-----------------------------------------------
             GPU.BindBuffer(vertexBufferID4);
-            Gl.glEnableVertexAttribArray(0);
+
             Gl.glVertexAttribPointer(0, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), IntPtr.Zero);
-            Gl.glEnableVertexAttribArray(1);
             Gl.glVertexAttribPointer(1, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(3 * sizeof(float)));
-            Gl.glEnableVertexAttribArray(2);
             Gl.glVertexAttribPointer(2, 2, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(6 * sizeof(float)));
 
             tex4.Bind();
             Gl.glDrawArrays(Gl.GL_POLYGON, 0, 4);
-
+            //right-----------------------------------------------
             GPU.BindBuffer(vertexBufferID5);
-            Gl.glEnableVertexAttribArray(0);
+
             Gl.glVertexAttribPointer(0, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), IntPtr.Zero);
-            Gl.glEnableVertexAttribArray(1);
             Gl.glVertexAttribPointer(1, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(3 * sizeof(float)));
-            Gl.glEnableVertexAttribArray(2);
             Gl.glVertexAttribPointer(2, 2, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(6 * sizeof(float)));
 
             tex5.Bind();
             Gl.glDrawArrays(Gl.GL_POLYGON, 0, 4);
-
+            //bottom-----------------------------------------------
             GPU.BindBuffer(vertexBufferID6);
-            Gl.glEnableVertexAttribArray(0);
+
             Gl.glVertexAttribPointer(0, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), IntPtr.Zero);
-            Gl.glEnableVertexAttribArray(1);
             Gl.glVertexAttribPointer(1, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(3 * sizeof(float)));
-            Gl.glEnableVertexAttribArray(2);
             Gl.glVertexAttribPointer(2, 2, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(6 * sizeof(float)));
 
             tex6.Bind();
             Gl.glDrawArrays(Gl.GL_POLYGON, 0, 4);
-
+            //front-----------------------------------------------
             GPU.BindBuffer(vertexBufferID7);
-            Gl.glEnableVertexAttribArray(0);
+
             Gl.glVertexAttribPointer(0, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), IntPtr.Zero);
-            Gl.glEnableVertexAttribArray(1);
             Gl.glVertexAttribPointer(1, 3, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(3 * sizeof(float)));
-            Gl.glEnableVertexAttribArray(2);
             Gl.glVertexAttribPointer(2, 2, Gl.GL_FLOAT, Gl.GL_FALSE, 8 * sizeof(float), (IntPtr)(6 * sizeof(float)));
 
             tex7.Bind();
             Gl.glDrawArrays(Gl.GL_POLYGON, 0, 4);
-
+            //-------------------------------------------------//
             Gl.glDisableVertexAttribArray(0);
             Gl.glDisableVertexAttribArray(1);
             Gl.glDisableVertexAttribArray(2);
